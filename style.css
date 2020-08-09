@@ -15,12 +15,7 @@ img {
   margin-right: auto;
 }
 
-.nav {
-  text-align: center;
-  padding-right: 10px;
-  padding-left: 10px;
-  background-color: blue;
-}
+nav {text-align:center;} 
 
 nav a {
   padding:10;
