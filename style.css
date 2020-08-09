@@ -22,3 +22,7 @@ img {
   background-color: blue;
 }
 
+nav a {
+  padding:10;
+  background: #ccc;
+}
